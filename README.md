@@ -14,5 +14,8 @@ This repository contains my projects and notes from the **Berkeley Executive Edu
 2. **Technology:** Identifying optimal digital solutions for specific business problems.
 3. **People:** Specifying strategic imperatives and KPIs for transformation success.
 
+
 ---
-*Part of the [Berkeley Certificate of Business Excellence (COBE)](https://executive.berkeley.edu/certificate-business-excellence) program.*
+
+![UC Berkeley Digital Transformation: Leading People, Data & Technology](images/KV_Berkeley_Certificate_Digital_Transformation_Leading_People_Data_and_Technology.jpg)
+*UC Berkeley Professional Certificate: Digital Transformation: Leading People, Data, and Technology*
