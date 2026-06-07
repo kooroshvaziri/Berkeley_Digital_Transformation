@@ -27,4 +27,4 @@ This repository houses the projects, frameworks, and strategic notes compiled du
 ### 🎓 Professional Certification
 
 ![UC Berkeley Digital Transformation: Leading People, Data & Technology](images/KV_Berkeley_Certificate_Digital_Transformation_Leading_People_Data_and_Technology.jpg)
-*UC Berkeley Professional Certificate: Digital Transformation: Leading People, Data, and Technology (Conferred May 2026)*
+*UC Berkeley Professional Certificate: Digital Transformation: Leading People, Data, and Technology*
